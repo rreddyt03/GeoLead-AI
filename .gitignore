@@ -1,0 +1,12 @@
+.venv-1/
+__pycache__/
+*.py[cod]
+*.code-workspace
+.DS_Store
+
+# Local secrets
+.env
+.env.*
+.salesforce.env
+!.env.example
+!.env.*.example*.db
