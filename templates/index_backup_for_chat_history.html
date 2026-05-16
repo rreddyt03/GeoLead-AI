@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Elite Window Solutions</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Inter',sans-serif}
+body{background:#0f172a;color:#fff}
+
+nav{display:flex;justify-content:space-between;align-items:center;padding:20px 60px;background:rgba(255,255,255,0.05);backdrop-filter:blur(10px);position:sticky;top:0}
+nav h1{font-size:22px}
+nav button{background:#38bdf8;border:none;padding:10px 18px;border-radius:25px;color:#000;font-weight:600;cursor:pointer}
+
+.hero{display:flex;align-items:center;justify-content:space-between;padding:80px 60px;gap:40px}
+.hero-text{max-width:550px}
+.hero h2{font-size:48px;font-weight:800}
+.hero p{margin:20px 0;color:#cbd5f5}
+.hero button{padding:14px 28px;border-radius:30px;border:none;background:#38bdf8;color:#000;font-weight:700}
+.hero img{width:500px;border-radius:20px}
+
+.features{padding:80px 60px;text-align:center}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:30px}
+.card{background:rgba(255,255,255,0.05);border-radius:20px;padding:20px}
+.card img{width:100%;border-radius:15px;height:180px;object-fit:cover;margin-bottom:15px}
+
+.stats{display:flex;justify-content:center;gap:60px;padding:60px;background:linear-gradient(135deg,#38bdf8,#6366f1)}
+
+.cta{padding:80px;text-align:center}
+.cta button{padding:15px 35px;background:#22c55e;border:none;border-radius:30px;font-size:18px;color:#000}
+
+footer{text-align:center;padding:30px;background:#020617;color:#94a3b8}
+
+/* CHATBOT */
+#chat-icon{position:fixed;bottom:25px;right:25px;background:#38bdf8;color:#000;width:60px;height:60px;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:28px;cursor:pointer}
+#chatbox{position:fixed;bottom:100px;right:25px;width:350px;height:500px;background:#fff;color:#000;border-radius:15px;display:none;flex-direction:column}
+.chat-header{background:#38bdf8;padding:12px;font-weight:700}
+.messages{flex:1;padding:10px;overflow-y:auto}
+.input-area{display:flex}
+.input-area input{flex:1;padding:10px;border:none;border-top:1px solid #ddd}
+.input-area button{background:#38bdf8;border:none;padding:10px}
+.message{margin:5px 0}
+.user{text-align:right}
+</style>
+</head>
+<body>
+
+<nav>
+<h1>Elite Windows</h1>
+<button>Get Quote</button>
+</nav>
+
+<section class="hero">
+<div class="hero-text">
+<h2>Modern Windows That Transform Your Home</h2>
+<p>Energy-efficient, stylish, and engineered for durability.</p>
+<button>Get Free Consultation</button>
+</div>
+<img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c">
+</section>
+
+<section class="features">
+<h2>Why Choose Us?</h2>
+<div class="grid">
+<div class="card"><img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c"><h3>Energy Efficient</h3></div>
+<div class="card"><img src="https://images.unsplash.com/photo-1560185127-6ed189bf02f4"><h3>Custom Design</h3></div>
+<div class="card"><img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511"><h3>Expert Installation</h3></div>
+</div>
+</section>
+
+<section class="stats">
+<div><h3>10,000+</h3><p>Customers</p></div>
+<div><h3>25+</h3><p>Years</p></div>
+<div><h3>98%</h3><p>Satisfaction</p></div>
+</section>
+
+<section class="cta">
+<h2>Ready to Upgrade?</h2>
+<button>Book Consultation</button>
+</section>
+
+<footer>
+<p>© 2026 Elite Window Solutions</p>
+</footer>
+
+<!-- CHATBOT -->
+<div id="chat-icon" onclick="toggleChat()">💬</div>
+<div id="chatbox">
+<div class="chat-header">AI Window Expert</div>
+<div id="messages" class="messages"></div>
+<div class="input-area">
+<input id="input" placeholder="Ask something...">
+<button onclick="sendMessage()">➤</button>
+</div>
+</div>
+
+<script>
+// --- Chat History Persistence ---
+function saveChatHistory() {
+  let messages = [];
+  document.querySelectorAll('#messages .message').forEach(div => {
+    messages.push({text: div.innerText, cls: div.className.replace('message ', '')});
+  });
+  localStorage.setItem('chatHistory', JSON.stringify(messages));
+}
+
+function loadChatHistory() {
+  let messages = JSON.parse(localStorage.getItem('chatHistory') || '[]');
+  let messagesDiv = document.getElementById('messages');
+  messagesDiv.innerHTML = '';
+  messages.forEach(msg => addMessage(msg.text, msg.cls, false));
+  scrollToBottom();
+}
+
+function scrollToBottom() {
+  let messagesDiv = document.getElementById('messages');
+  messagesDiv.scrollTop = messagesDiv.scrollHeight;
+}
+
+function toggleChat(){
+  let box=document.getElementById('chatbox');
+  if(box.style.display==='flex'){
+    box.style.display='none';
+  }else{
+    box.style.display='flex';
+    loadChatHistory();
+    setTimeout(()=>{document.getElementById('input').focus();},100);
+  }
+}
+
+function addMessage(text,cls,save=true){
+  let div=document.createElement('div');
+  div.className='message '+cls;
+  div.innerText=text;
+  document.getElementById('messages').appendChild(div);
+  scrollToBottom();
+  if(save!==false) saveChatHistory();
+}
+
+async function sendMessage(){
+  let input=document.getElementById('input');
+  let msg=input.value.trim();
+  if(!msg) return;
+  addMessage(msg,'user');
+  input.value='';
+
+  let res=await fetch('/chat',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:msg})});
+  let data=await res.json();
+  addMessage(data.reply,'ai');
+}
+
+// Load chat history on page load
+window.addEventListener('DOMContentLoaded', function() {
+  loadChatHistory();
+});
+</script>
+
+</body>
+</html>

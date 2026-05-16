@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lead Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg: #f6f1e8;
+            --ink: #1f2633;
+            --muted: #697489;
+            --line: rgba(31, 38, 51, 0.08);
+            --panel: rgba(255, 255, 255, 0.8);
+            --navy: #173153;
+            --bronze: #bb7a2a;
+            --green: #24865b;
+            --amber: #b9781d;
+            --red: #9f3c3c;
+            --shadow: 0 20px 56px rgba(23, 29, 41, 0.12);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: "Plus Jakarta Sans", sans-serif;
+            color: var(--ink);
+            background: linear-gradient(180deg, #faf6ef 0%, #f2eadf 100%);
+        }
+
+        .page {
+            width: min(1200px, calc(100% - 28px));
+            margin: 0 auto;
+            padding: 28px 0 40px;
+        }
+
+        .hero {
+            display: flex;
+            justify-content: space-between;
+            gap: 24px;
+            align-items: end;
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            margin: 0;
+            font-family: "Cormorant Garamond", serif;
+            font-size: clamp(2.6rem, 5vw, 4rem);
+            line-height: 0.95;
+        }
+
+        .hero p {
+            margin: 10px 0 0;
+            color: var(--muted);
+            max-width: 62ch;
+            line-height: 1.8;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 16px;
+            margin-bottom: 22px;
+        }
+
+        .stat-card,
+        .lead-card {
+            background: var(--panel);
+            border: 1px solid var(--line);
+            box-shadow: var(--shadow);
+        }
+
+        .stat-card {
+            border-radius: 24px;
+            padding: 20px;
+        }
+
+        .stat-card strong {
+            display: block;
+            font-size: 2rem;
+            color: var(--navy);
+        }
+
+        .stat-card span {
+            display: block;
+            margin-top: 8px;
+            color: var(--muted);
+        }
+
+        .leads {
+            display: grid;
+            gap: 18px;
+        }
+
+        .lead-card {
+            border-radius: 28px;
+            padding: 22px;
+        }
+
+        .lead-top {
+            display: flex;
+            justify-content: space-between;
+            gap: 18px;
+            align-items: start;
+            margin-bottom: 18px;
+        }
+
+        .lead-title {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            align-items: center;
+        }
+
+        .lead-title h2 {
+            margin: 0;
+            font-size: 1.2rem;
+        }
+
+        .chip {
+            display: inline-flex;
+            align-items: center;
+            border-radius: 999px;
+            padding: 8px 12px;
+            font-size: 0.82rem;
+            font-weight: 700;
+        }
+
+        .chip.intent {
+            background: rgba(23, 49, 83, 0.1);
+            color: var(--navy);
+        }
+
+        .chip.status {
+            background: rgba(187, 122, 42, 0.12);
+            color: var(--bronze);
+        }
+
+        .chip.score-hot {
+            background: rgba(36, 134, 91, 0.12);
+            color: var(--green);
+        }
+
+        .chip.score-warm {
+            background: rgba(185, 120, 29, 0.12);
+            color: var(--amber);
+        }
+
+        .chip.score-cold {
+            background: rgba(159, 60, 60, 0.12);
+            color: var(--red);
+        }
+
+        .lead-meta {
+            color: var(--muted);
+            font-size: 0.9rem;
+            text-align: right;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 14px;
+            margin-bottom: 18px;
+        }
+
+        .field {
+            padding: 14px;
+            border-radius: 18px;
+            background: rgba(246, 241, 232, 0.8);
+            border: 1px solid rgba(31, 38, 51, 0.06);
+        }
+
+        .field strong {
+            display: block;
+            margin-bottom: 6px;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: var(--muted);
+        }
+
+        .field span {
+            display: block;
+            line-height: 1.55;
+        }
+
+        .summary {
+            padding: 16px 18px;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.7);
+            border: 1px solid rgba(31, 38, 51, 0.06);
+        }
+
+        .summary strong {
+            display: block;
+            margin-bottom: 10px;
+        }
+
+        .summary pre {
+            margin: 0;
+            white-space: pre-wrap;
+            font-family: inherit;
+            line-height: 1.7;
+            color: var(--muted);
+        }
+
+        .empty {
+            padding: 28px;
+            border-radius: 24px;
+            background: rgba(255, 255, 255, 0.75);
+            border: 1px solid var(--line);
+            color: var(--muted);
+            text-align: center;
+        }
+
+        @media (max-width: 960px) {
+            .stats,
+            .grid {
+                grid-template-columns: repeat(2, minmax(0, 1fr));
+            }
+
+            .lead-top {
+                display: block;
+            }
+
+            .lead-meta {
+                margin-top: 12px;
+                text-align: left;
+            }
+        }
+
+        @media (max-width: 640px) {
+            .stats,
+            .grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <main class="page">
+        <section class="hero">
+            <div>
+                <h1>Lead Dashboard</h1>
+                <p>Review qualified window conversations, see contact details, and spot high-intent opportunities quickly.</p>
+            </div>
+        </section>
+
+        <section class="stats">
+            <div class="stat-card">
+                <strong>{{ leads|length }}</strong>
+                <span>Total captured leads</span>
+            </div>
+            <div class="stat-card">
+                <strong>{{ leads | selectattr('email_sent') | list | length }}</strong>
+                <span>Conversation emails sent</span>
+            </div>
+            <div class="stat-card">
+                <strong>{{ leads | selectattr('score', 'ge', 5) | list | length }}</strong>
+                <span>Hot leads with high intent</span>
+            </div>
+        </section>
+
+        <section class="leads">
+            {% if leads %}
+                {% for lead in leads %}
+                    {% set score_class = 'score-hot' if lead.score >= 5 else 'score-warm' if lead.score >= 3 else 'score-cold' %}
+                    <article class="lead-card">
+                        <div class="lead-top">
+                            <div class="lead-title">
+                                <h2>Lead #{{ lead.id }}</h2>
+                                <span class="chip intent">{{ lead.intent or 'unknown' }}</span>
+                                <span class="chip status">{{ lead.status }}</span>
+                                <span class="chip {{ score_class }}">Score {{ lead.score }}</span>
+                            </div>
+                            <div class="lead-meta">
+                                <div>{{ lead.created_at }}</div>
+                                <div>{{ 'Email sent' if lead.email_sent else 'Email pending' }}</div>
+                            </div>
+                        </div>
+
+                        <div class="grid">
+                            <div class="field">
+                                <strong>Name</strong>
+                                <span>{{ lead.customer_name or 'Not captured' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Email</strong>
+                                <span>{{ lead.customer_email or 'Not captured' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Phone</strong>
+                                <span>{{ lead.customer_phone or 'Not captured' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Salesforce</strong>
+                                <span>{{ lead.salesforce_sync_status or 'pending' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Model</strong>
+                                <span>{{ lead.summary.recommended_model or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Timeline</strong>
+                                <span>{{ lead.summary.timeline or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Window Count</strong>
+                                <span>{{ lead.summary.count or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Size</strong>
+                                <span>{{ lead.summary.size or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Style</strong>
+                                <span>{{ lead.summary.style or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Material</strong>
+                                <span>{{ lead.summary.material or 'Not available' }}</span>
+                            </div>
+                            <div class="field">
+                                <strong>Salesforce Lead ID</strong>
+                                <span>{{ lead.salesforce_lead_id or 'Not synced yet' }}</span>
+                            </div>
+                        </div>
+
+                        <div class="summary">
+                            <strong>Conversation Summary</strong>
+                            <pre>{{ lead.conversation_summary or 'No summary stored yet.' }}</pre>
+                        </div>
+                    </article>
+                {% endfor %}
+            {% else %}
+                <div class="empty">No leads have been captured yet.</div>
+            {% endif %}
+        </section>
+    </main>
+</body>
+</html>

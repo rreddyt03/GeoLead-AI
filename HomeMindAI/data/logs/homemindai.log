@@ -1,0 +1,1868 @@
+2026-05-07 23:26:04 | INFO | app.camera.stream | Camera stream started
+2026-05-07 23:26:04 | ERROR | app.camera.stream | Unable to open camera source
+2026-05-07 23:26:07 | ERROR | app.camera.stream | Unable to open camera source
+2026-05-07 23:26:11 | INFO | app.camera.stream | Camera source opened
+2026-05-07 23:26:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:12 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:14 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:25 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:28 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:32 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:34 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:35 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:37 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:26:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:37 | INFO | app.camera.stream | Camera stream started
+2026-05-07 23:34:39 | INFO | app.camera.stream | Camera source opened
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:39 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:48 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:34:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:50 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:34:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:34:57 | INFO | app.camera.manager | Snapshot saved
+2026-05-07 23:45:29 | INFO | app.vision.yolo_detector | YOLO detector initialized
+2026-05-07 23:45:34 | INFO | app.identity.face_engine | InsightFace engine initialized
+2026-05-07 23:45:34 | INFO | app.identity.registry | Known face registry loaded
+2026-05-07 23:45:34 | INFO | app.camera.stream | Camera stream started
+2026-05-07 23:45:36 | INFO | app.camera.stream | Camera source opened
+2026-05-07 23:45:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:37 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:39 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:41 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:42 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:43 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:43 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:44 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:47 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:49 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:49 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:49 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:50 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:51 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:51 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:51 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:54 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:58 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:45:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:02 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:06 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:10 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:14 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:16 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:19 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:21 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:25 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:27 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:30 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:31 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:34 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:35 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:37 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:38 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:39 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:46:41 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:46:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:53 | INFO | app.vision.yolo_detector | YOLO detector initialized
+2026-05-07 23:47:53 | INFO | app.identity.face_engine | InsightFace engine initialized
+2026-05-07 23:47:53 | INFO | app.identity.registry | Known face registry loaded
+2026-05-07 23:47:53 | INFO | app.camera.stream | Camera stream started
+2026-05-07 23:47:55 | INFO | app.camera.stream | Camera source opened
+2026-05-07 23:47:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:47:55 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:47:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:47:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:47:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:47:59 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:47:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:47:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:48:12 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:48:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-07 23:48:17 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-07 23:48:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-07 23:48:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:09 | INFO | app.vision.yolo_detector | YOLO detector initialized
+2026-05-08 00:16:10 | INFO | app.identity.face_engine | InsightFace engine initialized
+2026-05-08 00:16:10 | INFO | app.identity.registry | Known face registry restored from cache
+2026-05-08 00:16:10 | INFO | app.camera.stream | Camera stream started
+2026-05-08 00:16:11 | INFO | app.camera.stream | Camera source opened
+2026-05-08 00:16:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:12 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:14 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:14 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:19 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:22 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:26 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:28 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:29 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:31 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:31 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:32 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:33 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:34 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:34 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:35 | INFO | app.camera.stream | Camera stream stopped
+2026-05-08 00:16:37 | INFO | app.vision.yolo_detector | YOLO detector initialized
+2026-05-08 00:16:37 | INFO | app.identity.face_engine | InsightFace engine initialized
+2026-05-08 00:16:37 | INFO | app.identity.registry | Known face registry restored from cache
+2026-05-08 00:16:37 | INFO | app.camera.stream | Camera stream started
+2026-05-08 00:16:39 | INFO | app.camera.stream | Camera source opened
+2026-05-08 00:16:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:39 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:39 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:40 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:45 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:46 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:47 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:51 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:51 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:54 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:16:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:16:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:16:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:00 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:02 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:08 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:09 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:10 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:11 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:12 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:23 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:54 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:55 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:56 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:58 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:17:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:17:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:00 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:18:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:03 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:18:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:06 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:18:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:18:25 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:18:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:31 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:18:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:05 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:06 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:07 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:07 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:13 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:15 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:17 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:41 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:41 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:47 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:47 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:47 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:48 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:52 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:52 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:53 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:54 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:58 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:19:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:19:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:19:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:00 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:24 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:26 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:26 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:28 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:29 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:30 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:32 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:33 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:34 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:35 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:36 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:37 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:37 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:37 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:38 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:39 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:40 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:41 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:42 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:43 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:44 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:45 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:45 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:45 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:46 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:48 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:49 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:50 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:51 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:52 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:53 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:54 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:55 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:56 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:57 | INFO | __main__ | HomeMindAI foundation bootstrapped
+2026-05-08 00:20:57 | INFO | app.camera.service | Starting camera test
+2026-05-08 00:20:57 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:57 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:57 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:20:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:58 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:58 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:59 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:20:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:59 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:20:59 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:00 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:00 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:01 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:01 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:01 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:02 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:03 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:03 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:04 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:04 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:04 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:05 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:05 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:06 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:07 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:08 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:08 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:08 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:09 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:10 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:10 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:11 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:12 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:13 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:13 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:13 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:14 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:15 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:15 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:15 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:16 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:16 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:17 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:18 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:18 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:19 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:19 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:20 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:20 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:20 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:21 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:21 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:22 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:22 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:23 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:23 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:24 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:24 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:24 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:25 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:25 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:26 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:27 | INFO | app.camera.manager | Motion snapshot saved
+2026-05-08 00:21:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:27 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:27 | INFO | app.events.event_engine | Perception event emitted
+2026-05-08 00:21:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:28 | INFO | app.vision.pipeline | Motion detected
+2026-05-08 00:21:28 | INFO | app.camera.stream | Camera stream stopped

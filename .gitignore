@@ -9,4 +9,6 @@ __pycache__/
 .env.*
 .salesforce.env
 !.env.example
-!.env.*.example*.db
+!.env.*.example
+
+*.db
